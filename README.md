@@ -6,34 +6,44 @@
 
 # Hi there 🙋, I'm Liam-Wei.
 
-Ali Cloud community expert blogger, figure neural network - causal inference - recommendation system researcher, focusing on the computer field of cutting-edge technology sharing and other artificial intelligence algorithm research work
-
-<a href="https://blog.csdn.net/m0_47256162?type=lately">
-    <img src="https://img.shields.io/badge/Website-CSDN-red?style=flat&logo=csdn&logoColor=white">
-</a>  
-<a href="mailto:ahang010@163.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/Liam-Wei"><img src="https://img.shields.io/badge/Website-GitHub-red?style=flat&logo=github&logoColor=white"></a>
+Ali Cloud community expert blogger, figure neural network - causal inference - recommendation system researcher, focusing on the computer field of cutting-edge technology sharing and other artificial intelligence algorithm research work.
 
 <br/>
 
-🚀 Programming language: <a href="">
-    <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"></a><a href="">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"></a><a href="">
-    <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white"></a><a href="">
-    <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"></a>
-
-🛸 Big data component: 
-
-🪐 Deep learning: 
-
-Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/Liam-Wei/count.svg) visitor. Thank you! 🎉🎉🎉
+<p align="center">
+    <a href="https://blog.csdn.net/m0_47256162?type=lately">
+    	<img src="https://img.shields.io/badge/Website-CSDN-green?style=flat&logo=csdn&logoColor=white">
+	</a>  
+	<a href="mailto:ahang010@163.com">
+    	<img src="https://img.shields.io/badge/Email-163-yellow?style=flat&logo=gmail&logoColor=white">
+    </a>
+	<a href="https://github.com/Liam-Wei">
+    	<img src="https://img.shields.io/badge/Website-GitHub-red?style=flat&logo=github&logoColor=white">		</a>
+</p>
 
 <br/>
 
-<a href="https://github.com/drkostas">
++ 🚀 Programming language: <a href="">
+	    <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"></a><a href="">
+	    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"></a><a href="">
+	    <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white"></a><a href="">
+	    <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"></a>
+
++ 🛸 Big data component: <a href="">
+	    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white"></a>
+
++ 🪐 Deep learning: <a href="">
+	    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"></a>
+
+
+
+<p align="center">Welcome! You are my <img src="https://profile-counter.glitch.me/Liam-Wei/count.svg"> visitor. Thank you! 🎉🎉🎉<p/>
+
+<br/>
+
+<p align="center"><a href="https://github.com/drkostas">
     <img src="https://github-stats-alpha.vercel.app/api?username=Liam-Wei&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+</a><p/>
 
 </p>
 
@@ -47,9 +57,10 @@ Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/Liam-Wei/
 
 ### 🖥️ Open-Source Projects
 
+<p align="center">
 <table>
 <tr><th>Deep Learning </th></tr>
-<tr><td>
+<tr><td><p/>
 
 
 | Title | Stars                                                        | Technologies                                                 |
@@ -64,4 +75,13 @@ Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/Liam-Wei/
 |       | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/RL-Value-Iteration?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
 |       | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-CNN?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
 |       | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-NeuralNet-1?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Wei&layout=compact&theme=tokyonight" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=Liam-Wei&show_icons=true&theme=tokyonight" alt="all-smile's GitHub stats">
+</p>
+
+
 
