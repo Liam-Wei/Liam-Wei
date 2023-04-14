@@ -40,7 +40,7 @@ Welcome! You are my <img src="https://profile-counter.glitch.me/Liam-Wei/count.s
 
 <br/>
 
-<p align="center"><a href="https://github.com/drkostas">
+<p align="center"><a href="https://github.com/Liam-Wei">
     <img src="https://github-stats-alpha.vercel.app/api?username=Liam-Wei&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a><p/>
 
