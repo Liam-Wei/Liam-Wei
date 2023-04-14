@@ -4,14 +4,30 @@
 </a>
 <br/>
 
-<a href="https://gkos.tech">
-    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
+# Hi there 🙋, I'm Liam-Wei.
+
+Ali Cloud community expert blogger, figure neural network - causal inference - recommendation system researcher, focusing on the computer field of cutting-edge technology sharing and other artificial intelligence algorithm research work
+
+<a href="https://blog.csdn.net/m0_47256162?type=lately">
+    <img src="https://img.shields.io/badge/Website-CSDN-red?style=flat&logo=csdn&logoColor=white">
 </a>  
 <a href="mailto:ahang010@163.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Liam-Wei"><img src="https://img.shields.io/badge/Website-GitHub-red?style=flat&logo=github&logoColor=white"></a>
 
+<br/>
 
+🚀 Programming language: <a href="">
+    <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"></a><a href="">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"></a><a href="">
+    <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white"></a><a href="">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"></a>
+
+🛸 Big data component: 
+
+🪐 Deep learning: 
+
+Welcome! You are my ![Visitor Count](https://profile-counter.glitch.me/Liam-Wei/count.svg) visitor. Thank you! 🎉🎉🎉
 
 <br/>
 
