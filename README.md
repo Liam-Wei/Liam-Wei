@@ -56,10 +56,7 @@ Welcome! You are my <img src="https://profile-counter.glitch.me/Liam-Wei/count.s
 
 ### 🖥️ Open-Source Projects
 
-<p align="center">
-<table>
-<tr><th>Deep Learning </th></tr>
-<p/>
+<table><tr><th>Deep Learning </th></tr></table>
 
 
 | Title                                                        | Stars                                                        |
