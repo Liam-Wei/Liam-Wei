@@ -56,7 +56,7 @@ Welcome! You are my <img src="https://profile-counter.glitch.me/Liam-Wei/count.s
 
 ### 🖥️ Open-Source Projects
 
-<table><tr><th>Deep Learning </th></tr></table>
+<table align="center"><tr><th>Deep Learning </th></tr><tr><td>
 
 
 | Title                                                        | Stars                                                        |
@@ -70,6 +70,8 @@ Welcome! You are my <img src="https://profile-counter.glitch.me/Liam-Wei/count.s
 | [PyTorch Deep Learning Project Real Combat 100 examples directory](https://github.com/Liam-Wei/PyTorch-Deep-Learning-Project-Real-Combat-100-examples-directory) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/PyTorch-Deep-Learning-Project-Real-Combat-100-examples-directory?style=flat&labelColor=black"/> |
 | [Deep learning time series prediction case](https://github.com/Liam-Wei/Deep-learning-time-series-prediction-case) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/Deep-learning-time-series-prediction-case?style=flat&labelColor=black"/> |
 | [ResNet Pytorch](https://github.com/Liam-Wei/ResNet-Pytorch) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/ResNet-Pytorch?style=flat&labelColor=black"/> |
+
+</td></tr></table>
 
 <br/>
 
