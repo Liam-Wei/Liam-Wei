@@ -23,21 +23,20 @@ Ali Cloud community expert blogger, figure neural network - causal inference - r
 
 <br/>
 
-+ 🚀 Programming language: <a href="">
-	    <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"></a><a href="">
-	    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"></a><a href="">
-	    <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white"></a><a href="">
-	    <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"></a>
+🚀 Programming language: <a href="">
+    <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"></a><a href="">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"></a><a href="">
+    <img src="https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white"></a><a href="">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"></a>
 
-+ 🛸 Big data component: <a href="">
-	    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white"></a>
+🛸 Big data component: <a href=""><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Spark-black?style=flat&logo=apachespark"></a><a href=""><img src="https://img.shields.io/badge/Flink-blue?style=flat&logo=apacheflink"></a><a href=""><img src="https://img.shields.io/badge/Hadoop-black?style=flat&logo=apachehadoop"></a><a href=""><img src="https://img.shields.io/badge/Kafka-F6C?style=flat&logo=apachekafka"></a><a href=""><img src="https://img.shields.io/badge/Hive-black?style=flat&logo=apachehive"></a><a href=""><img src="https://img.shields.io/badge/Kylin-07c?style=flat&logo=apachekylin"></a>
 
-+ 🪐 Deep learning: <a href="">
-	    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"></a>
+🪐 Deep learning: <a href="">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"></a><a href=""><img src="https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch"></a><a href=""><img src="https://img.shields.io/badge/PyTorch Geometric-FCA121?style=flat&logo=pyg"></a>
 
+🌟 Frequent using: <a href=""><img src="https://img.shields.io/badge/Linux-7A1Fa2?style=flat&logo=linux"></a><a href=""><img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"></a><a href=""><img src="https://img.shields.io/badge/Docker-red?style=flat&logo=docker"></a><a href=""><img src="https://img.shields.io/badge/Gitee-A80025?style=flat&logo=gitee"></a>
 
-
-<p align="center">Welcome! You are my <img src="https://profile-counter.glitch.me/Liam-Wei/count.svg"> visitor. Thank you! 🎉🎉🎉<p/>
+Welcome! You are my <img src="https://profile-counter.glitch.me/Liam-Wei/count.svg"> visitor. Thank you! 🎉🎉🎉
 
 <br/>
 
@@ -47,7 +46,7 @@ Ali Cloud community expert blogger, figure neural network - causal inference - r
 
 </p>
 
-* 📖 Pursuing Masters's Degree in Software & Engineering @ [Jilin University](http://csw.jlu.edu.cn/). 
+* 📖 Pursuing Masters's Degree in Software & Engineering. 
 
 * 🎓 Conducting research on **Graph Neural Network** and **Recommendation System**.
 
@@ -60,21 +59,20 @@ Ali Cloud community expert blogger, figure neural network - causal inference - r
 <p align="center">
 <table>
 <tr><th>Deep Learning </th></tr>
-<tr><td><p/>
+<p/>
 
 
-| Title | Stars                                                        | Technologies                                                 |
-| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|       | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) |
-|       | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
-|       | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Bert-Question-Answering?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy) |
-|       | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/accident-severity-prediction?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) |
-|       | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/HGN?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=b___QQ8AAAAJ&authuser=1&citation_for_view=b___QQ8AAAAJ:u5HHmVD_uO8C) ![PySpark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark)  ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) |
-|       | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/covid19-vaccinations-predict?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) |
-|       | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Insta-Likes-Predict?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) |
-|       | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/RL-Value-Iteration?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
-|       | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-CNN?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
-|       | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-NeuralNet-1?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
+| Title                                                        | Stars                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [PyTorch-PyG implements the classical model of graph neural network](https://github.com/Liam-Wei/PyTorch-PyG-implements-the-classical-model-of-graph-neural-network) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/PyTorch-PyG-implements-the-classical-model-of-graph-neural-network?style=flat&labelColor=black"/> |
+| [Data structures and algorithms](https://github.com/Liam-Wei/Data-structures-and-algorithms) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/Data-structures-and-algorithms?style=flat&labelColor=black"/> |
+| [NLP classic text classification project actual combat](https://github.com/Liam-Wei/NLP-classic-text-classification-project-actual-combat) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/NLP-classic-text-classification-project-actual-combat?style=flat&labelColor=black"/> |
+| [Matplotlib draws images](https://github.com/Liam-Wei/Matplotlib-draws-images) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/Matplotlib-draws-images?style=flat&labelColor=black"/> |
+| [Pandas handled 100 cases of data](https://github.com/Liam-Wei/Pandas-handled-100-cases-of-data) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/Pandas-handled-100-cases-of-data?style=flat&labelColor=black"/> |
+| [Machine learning project field case](https://github.com/Liam-Wei/Machine-learning-project-field-case) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/Machine-learning-project-field-case?style=flat&labelColor=black"/> |
+| [PyTorch Deep Learning Project Real Combat 100 examples directory](https://github.com/Liam-Wei/PyTorch-Deep-Learning-Project-Real-Combat-100-examples-directory) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/PyTorch-Deep-Learning-Project-Real-Combat-100-examples-directory?style=flat&labelColor=black"/> |
+| [Deep learning time series prediction case](https://github.com/Liam-Wei/Deep-learning-time-series-prediction-case) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/Deep-learning-time-series-prediction-case?style=flat&labelColor=black"/> |
+| [ResNet Pytorch](https://github.com/Liam-Wei/ResNet-Pytorch) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/ResNet-Pytorch?style=flat&labelColor=black"/> |
 
 <br/>
 
